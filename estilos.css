@@ -27,9 +27,11 @@ body {
     background: #318796;
     box-shadow: inset 5px 5px 0px #14363c,
     inset -5px -5px 0px #4ed8f0;
+}
 
 .contar{
-    font-size: 5rem;
+    font-size: 2rem;
+    font-weight: 300;
 }
 
 .botones{
